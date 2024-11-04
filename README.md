@@ -1,4 +1,4 @@
 # gittest
 Testing on github
 one more edit at GitHub
-Updated locally
+This line was modified manually during conflicts during resolution.
