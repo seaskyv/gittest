@@ -3,3 +3,4 @@ Addtional feature added in dev.
 Test only.
 Stashed file, continue to work it later
 testing for squash
+Add all for testing for squash
